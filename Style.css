@@ -1,0 +1,39 @@
+<style>
+        body {
+            background-color: #b6c199;
+            padding: 10px;
+            
+            
+        }
+
+        .nav-list {
+            width: 50%;
+
+
+            align-items: center;
+            display: flex;
+
+        }
+
+        .nav-list li {
+            list-style: none;
+            padding: 40px 30px;
+
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: #7d94b5;
+
+
+        }
+
+        .nav-list li a:hover {
+            color: #F34C19
+        }
+
+
+        .h1{
+            text-align: center;
+        }
+    </style>
